@@ -1,5 +1,5 @@
 ---
-title: Comment Policy
+title: Comments Policy
 ---
 
 By posting on my blog, you agree to the following:
