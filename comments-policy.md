@@ -1,3 +1,7 @@
+---
+title: Comment Policy
+---
+
 By posting on my blog, you agree to the following:
 
 - You may comment without registering. You can log-in via Disqus, OpenID, Twitter, Facebook—or not at all. It’s up to you.
