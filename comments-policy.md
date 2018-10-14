@@ -1,3 +1,8 @@
+---
+title: Comments Policy
+layout: default
+---
+
 By posting on my [blog](https://esstudio.site/), you agree to the following:
 
 - You may comment without registering. You can log-in via Disqus, OpenID, Twitter, Facebook—or not at all. It’s up to you.
